@@ -1,4 +1,4 @@
-# CSC2002-Team10 (Team Project)
+# CSC2002-10
 
 <a name="readme-top"></a>
 
@@ -132,17 +132,6 @@ Run the laravel development server
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgements
-- Chia Teck Fatt, Reagan <2102539@sit.singaporetech.edu.sg>
-- Wong Darren <2101196@sit.singaporetech.edu.sg>
-- Enrique Carlos Marcelo <2102740@sit.singaporetech.edu.sg>
-- Heng Jun Hao <2101739@sit.singaporetech.edu.sg>
-- Kenny Lim Ye Wei <2102764@sit.singaporetech.edu.sg>
-- Teo Leng <2102311@sit.singaporetech.edu.sg>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
