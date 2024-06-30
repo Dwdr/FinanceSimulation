@@ -1,0 +1,22 @@
+[
+    {
+        "en-GB": "M",
+        "zh_HK": "男",
+        "zh_CN": "男"
+    },
+    {
+        "en-GB": "F",
+        "zh_HK": "女",
+        "zh_CN": "女"
+    },
+    {
+        "en-GB": "Diverse",
+        "zh_HK": "多樣化",
+        "zh_CN": "多樣化"
+    },
+    {
+        "en-GB": "Unknown",
+        "zh_HK": "未知",
+        "zh_CN": "未知"
+    }
+]

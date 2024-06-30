@@ -1,0 +1,242 @@
+[
+  {
+    "code": "npl",
+    "name": "No-pay Leave 無薪假期",
+    "is_nwd": true,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 100
+  },
+  {
+    "code": "slrse",
+    "name": "Sick Leave (RSE)",
+    "is_nwd": true,
+    "is_adj": true,
+    "is_rse": true,
+    "percentage": 80
+  },
+  {
+    "code": "sl",
+    "name": "Sick Leave",
+    "is_nwd": true,
+    "is_adj": true,
+    "is_rse": false,
+    "percentage": 100
+  },
+  {
+    "code": "al",
+    "name": "Annual Leave",
+    "is_nwd": true,
+    "is_adj": true,
+    "is_rse": true,
+    "percentage": 100
+  },
+  {
+    "code": "ml",
+    "name": "Mentality Leave",
+    "is_nwd": true,
+    "is_adj": true,
+    "is_rse": true,
+    "percentage": 80
+  },
+  {
+    "code": "pl",
+    "name": "Paternity Leave",
+    "is_nwd": true,
+    "is_adj": true,
+    "is_rse": true,
+    "percentage": 80
+  },
+  {
+    "code": "c",
+    "name": "Casual Leave 事假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "dv",
+    "name": "Duty Visit 因公出差",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "fa",
+    "name": "Frozen Annual Leave 凍結的年假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "fc",
+    "name": "Frozen Casual Leave 凍結的事假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "fv",
+    "name": "Frozen Vacation Leave 凍結的例假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "mis",
+    "name": "Miscellaneous Leave 未歸類的假期",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "mx",
+    "name": "Full-pay Maternity Leave 全薪分娩假期",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "mn",
+    "name": "No-pay Maternity Leave 無薪分娩假期",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "osl",
+    "name": "Open-end Sick Leave 未有完結日的病假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "pst",
+    "name": "Study Leave Approved by HOU under the delegated authority 運作單位主管批准的進修假期",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "s",
+    "name": "Full-pay Sick Leave for ORP terms 按舊薪酬及福利聘任所享有的全薪病假\n",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "sal06",
+    "name": "Special Annual Leave 06 特別年假戶口的年假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "sh",
+    "name": "Half-pay Sick Leave for Staff on ORP terms 按舊薪酬及福利聘任所享有的半薪病假\n",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "sn",
+    "name": "No-pay Sick Leave 無薪病假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "s04",
+    "name": "Full-pay Sick Leave for Staff on NRP terms 按新薪酬及福利聘任所享有的全薪病假\n",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "spe",
+    "name": "Special Leave 特別假期",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "st",
+    "name": "Study Leave 進修假期",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "stn",
+    "name": "No-pay Study Leave 無薪進修假期",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "v",
+    "name": "Vacation Leave 例假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "wi",
+    "name": "Work Injury Leave 工傷病假",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "a",
+    "name": "Annual Leave for Clerical, Secretarial, Technical & Minor Grades Staff on ORP terms and appointed before 1.7.2000 於2000年7月1日前入職, 並按舊薪酬及福利聘任的文員、秘書、技術人員與初級僱員所享有的年假。\n",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "al00",
+    "name": "Annual Leave for Staff on ORP terms and appointed on or after 1.7.2000, excluding teaching staff of IVE Campuses or Skills Centres 於2000年7月1日或以後入職, 並按舊薪酬及福利聘任所享有的年假（不包括香港專業教育學院及技能訓練中心的教學人員）。\n",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "al04",
+    "name": "Annual Leave for Staff on NRP terms 按新薪酬及福利聘任所享有的年假\n",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  },
+  {
+    "code": "al06",
+    "name": "Annual Leave 2006 新年假（2006）",
+    "is_nwd": false,
+    "is_adj": false,
+    "is_rse": false,
+    "percentage": 0
+  }
+]

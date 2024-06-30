@@ -1,0 +1,26 @@
+[
+    {
+        "en-GB": "Resignation",
+        "zh_HK": "辭職",
+        "zh_CN": "辭職",
+        "tax": "Resignation"
+    },
+    {
+        "en-GB": "Retirement",
+        "zh_HK": "退休",
+        "zh_CN": "退休",
+        "tax": "Retirement"
+    },
+    {
+        "en-GB": "Dismissal",
+        "zh_HK": "開除",
+        "zh_CN": "開除",
+        "tax": "Dismissal"
+    },
+    {
+        "en-GB": "Death",
+        "zh_HK": "死亡",
+        "zh_CN": "死亡",
+        "tax": "Death"
+    }
+]

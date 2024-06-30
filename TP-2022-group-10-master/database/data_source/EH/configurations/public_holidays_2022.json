@@ -1,0 +1,70 @@
+[
+    {
+        "name": "The first day of January",
+        "date": "2022-01-01"
+    },
+    {
+        "name": "Lunar New Year Day",
+        "date": "2022-02-01"
+    },
+    {
+        "name": "The second day of Lunar New Year",
+        "date": "2022-02-02"
+    },
+    {
+        "name": "The fourth day of Lunar New Year",
+        "date": "2022-02-03"
+    },
+    {
+        "name": "Ching Ming Festival",
+        "date": "2022-04-05"
+    },
+    {
+        "name": "Good Friday",
+        "date": "2022-04-15"
+    },
+    {
+        "name": "The day following Good Friday",
+        "date": "2022-04-16"
+    },
+    {
+        "name": "Easter Monday",
+        "date": "2022-04-18"
+    },
+    {
+        "name": "The day following Labour Day",
+        "date": "2022-05-02"
+    },
+    {
+        "name": "The day following Birthday of the Buddha",
+        "date": "2022-05-09"
+    },
+    {
+        "name": "Tuen Ng Festival",
+        "date": "2022-06-03"
+    },
+    {
+        "name": "Hong Kong Special Administrative Region Establishment Day",
+        "date": "2022-07-01"
+    },
+    {
+        "name": "The day following the Chinese Mid-Autumn Festival",
+        "date": "2022-09-12"
+    },
+    {
+        "name": "National Day",
+        "date": "2022-10-01"
+    },
+    {
+        "name": "Chung Yeung Festival",
+        "date": "2022-10-04"
+    },
+    {
+        "name": "The first weekday after Christmas Day",
+        "date": "2022-12-26"
+    },
+    {
+        "name": "The second weekday after Christmas Day",
+        "date": "2022-12-27"
+    }
+]

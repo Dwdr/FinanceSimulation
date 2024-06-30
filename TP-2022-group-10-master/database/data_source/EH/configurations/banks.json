@@ -1,0 +1,440 @@
+[
+  {
+    "code": "003",
+    "zh_HK": "渣打銀行（香港）有限公司",
+    "en-GB": "Standard Chartered Bank（Hong Kong）Limited",
+    "swift": "SCBLHKHH"
+  },
+  {
+    "code": "004",
+    "zh_HK": "香港上海滙豐銀行有限公司",
+    "en-GB": "The Hongkong and Shanghai Banking Corporation Limited",
+    "swift": "HSBCHKHH"
+  },
+  {
+    "code": "005",
+    "zh_HK": "東方匯理銀行",
+    "en-GB": "Credit Agricole Corporate and Investment Bank",
+    "swift": ""
+  },
+  {
+    "code": "006",
+    "zh_HK": "花旗銀行有限公司",
+    "en-GB": "Citibank National Association",
+    "swift": ""
+  },
+  {
+    "code": "007",
+    "zh_HK": "摩根大通銀行",
+    "en-GB": "JP Morgan Chase Bank, N.A.",
+    "swift": "CHASHKHH"
+  },
+  {
+    "code": "008",
+    "zh_HK": "蘇格蘭皇家銀行",
+    "en-GB": "The Royal Bank of Scotland plc",
+    "swift": ""
+  },
+  {
+    "code": "009",
+    "zh_HK": "中國建設銀行（亞洲）股份有限公司",
+    "en-GB": "China Construction Bank（Asia）Corporation Limited",
+    "swift": "PCBCHKHH"
+  },
+  {
+    "code": "011",
+    "zh_HK": "前 美國運通銀行",
+    "en-GB": "American Express Bank",
+    "swift": ""
+  },
+  {
+    "code": "012",
+    "zh_HK": "中國銀行（香港）有限公司",
+    "en-GB": "Bank of China（Hong Kong）Limited",
+    "swift": "BKCHHKHH"
+  },
+  {
+    "code": "014",
+    "zh_HK": "前「鹽業銀行」",
+    "en-GB": "Previously as \"Yien Yieh Commerical Bank",
+    "swift": ""
+  },
+  {
+    "code": "015",
+    "zh_HK": "東亞銀行有限公司",
+    "en-GB": "The Bank of East Asia Limited",
+    "swift": "BEASHKHH"
+  },
+  {
+    "code": "016",
+    "zh_HK": "星展銀行（香港）有限公司",
+    "en-GB": "DBS Bank (Hong Kong) Limited",
+    "swift": "DBSSHKHH"
+  },
+  {
+    "code": "017",
+    "zh_HK": "前 第一太平銀行",
+    "en-GB": "First Pacific Bank Limited",
+    "swift": ""
+  },
+  {
+    "code": "018",
+    "zh_HK": "中信銀行國際有限公司",
+    "en-GB": "China CITIC Bank International Limited",
+    "swift": "KWHKHKHH"
+  },
+  {
+    "code": "019",
+    "zh_HK": "前「廣東省銀行」",
+    "en-GB": "Previously as \"The Kwangtung Provincial Bank",
+    "swift": ""
+  },
+  {
+    "code": "020",
+    "zh_HK": "招商永隆銀行有限公司",
+    "en-GB": "CMB Wing Lung Bank Limited",
+    "swift": "WUBAHKHH"
+  },
+  {
+    "code": "021",
+    "zh_HK": "前 永安銀行/豐明銀行",
+    "en-GB": "Wing On Bank Limited / Mevas Bank",
+    "swift": ""
+  },
+  {
+    "code": "022",
+    "zh_HK": "華僑銀行有限公司",
+    "en-GB": "OCBC BANK Limited",
+    "swift": ""
+  },
+  {
+    "code": "024",
+    "zh_HK": "恒生銀行有限公司",
+    "en-GB": "Hang Seng Bank Limited",
+    "swift": "HASEHKHH"
+  },
+  {
+    "code": "025",
+    "zh_HK": "上海商業銀行有限公司",
+    "en-GB": "Shanghai Commercial Bank",
+    "swift": "SCBKHKHH"
+  },
+  {
+    "code": "026",
+    "zh_HK": "前「中南銀行」",
+    "en-GB": "Previously as \"The China & South Sea Bank",
+    "swift": ""
+  },
+  {
+    "code": "027",
+    "zh_HK": "前 交通銀行有限公司 香港分行",
+    "en-GB": "Previously as Bank of Communications Co., Ltd., Hong Kong Branch",
+    "swift": "COMMHKHH"
+  },
+  {
+    "code": "028",
+    "zh_HK": "大眾銀行（香港）有限公司",
+    "en-GB": "Public Bank（Hong Kong）Limited",
+    "swift": "CBHKHKHH"
+  },
+  {
+    "code": "029",
+    "zh_HK": "前 華比銀行",
+    "en-GB": "Belgian Bank",
+    "swift": ""
+  },
+  {
+    "code": "030",
+    "zh_HK": "前「金城銀行」",
+    "en-GB": "Previously as \"Kinchueng Banking Corporation",
+    "swift": ""
+  },
+  {
+    "code": "031",
+    "zh_HK": "前「新華銀行」",
+    "en-GB": "Previously as \"Sin Hua Bank",
+    "swift": ""
+  },
+  {
+    "code": "032",
+    "zh_HK": "前 DBS廣安銀行",
+    "en-GB": "DBS Kwong On Bank",
+    "swift": ""
+  },
+  {
+    "code": "033",
+    "zh_HK": "前「國華商業銀行」",
+    "en-GB": "Previously as \"The China State Bank",
+    "swift": ""
+  },
+  {
+    "code": "034",
+    "zh_HK": "前 恒隆銀行",
+    "en-GB": "Hang Lung Bank",
+    "swift": ""
+  },
+  {
+    "code": "035",
+    "zh_HK": "華僑永亨銀行有限公司",
+    "en-GB": "OCBC Wing Hang Bank Limited",
+    "swift": "WIHBHKHH"
+  },
+  {
+    "code": "036",
+    "zh_HK": "前「浙江興業銀行」",
+    "en-GB": "Previously as \"The National Commercial Bank",
+    "swift": ""
+  },
+  {
+    "code": "038",
+    "zh_HK": "大有銀行有限公司",
+    "en-GB": "Tai Yau Bank Ltd",
+    "swift": ""
+  },
+  {
+    "code": "039",
+    "zh_HK": "集友銀行有限公司",
+    "en-GB": "Chiyu Banking Corporation Limited",
+    "swift": "CIYUHKHH"
+  },
+  {
+    "code": "040",
+    "zh_HK": "大新銀行有限公司",
+    "en-GB": "Dah Sing Bank Limited",
+    "swift": "DSBAHKHH"
+  },
+  {
+    "code": "041",
+    "zh_HK": "創興銀行有限公司",
+    "en-GB": "Chong Hing Bank",
+    "swift": "LCHBHKHH"
+  },
+  {
+    "code": "042",
+    "zh_HK": "前 中國聯合銀行",
+    "en-GB": "United Chinses Bank Limited",
+    "swift": ""
+  },
+  {
+    "code": "043",
+    "zh_HK": "南洋商業銀行有限公司",
+    "en-GB": "Nanyang Commercial Bank",
+    "swift": "NYCBHKHH"
+  },
+  {
+    "code": "044",
+    "zh_HK": "前 浙江第一銀行",
+    "en-GB": "Chekiang First Bank Limited",
+    "swift": ""
+  },
+  {
+    "code": "045",
+    "zh_HK": "UCO Bank",
+    "en-GB": "UCO Bank",
+    "swift": ""
+  },
+  {
+    "code": "046",
+    "zh_HK": "韓國外換銀行",
+    "en-GB": "KEB Hana Bank",
+    "swift": ""
+  },
+  {
+    "code": "047",
+    "zh_HK": "三菱日聯銀行",
+    "en-GB": "MUFG Bank, Ltd.",
+    "swift": ""
+  },
+  {
+    "code": "049",
+    "zh_HK": "盤谷銀行",
+    "en-GB": "Bangkok Bank",
+    "swift": ""
+  },
+  {
+    "code": "051",
+    "zh_HK": "前 華人銀行",
+    "en-GB": "Hong Kong Chinese Bank",
+    "swift": ""
+  },
+  {
+    "code": "052",
+    "zh_HK": "前 海外信託銀行",
+    "en-GB": "Overseas Trust Bank Ltd",
+    "swift": ""
+  },
+  {
+    "code": "054",
+    "zh_HK": "德意志銀行",
+    "en-GB": "Deutsche Bank AG",
+    "swift": ""
+  },
+  {
+    "code": "055",
+    "zh_HK": "美國銀行",
+    "en-GB": "Bank of America",
+    "swift": ""
+  },
+  {
+    "code": "056",
+    "zh_HK": "法國巴黎銀行",
+    "en-GB": "BNP PARIS",
+    "swift": ""
+  },
+  {
+    "code": "057",
+    "zh_HK": "前 華聯銀行",
+    "en-GB": "Overseas United Bank",
+    "swift": ""
+  },
+  {
+    "code": "058",
+    "zh_HK": "印度銀行",
+    "en-GB": "Bank of India",
+    "swift": ""
+  },
+  {
+    "code": "059",
+    "zh_HK": "前 遠東銀行",
+    "en-GB": "Far East Bank Ltd",
+    "swift": ""
+  },
+  {
+    "code": "060",
+    "zh_HK": "National Bank of Pakistan",
+    "en-GB": "National Bank of Pakistan",
+    "swift": ""
+  },
+  {
+    "code": "061",
+    "zh_HK": "大生銀行有限公司",
+    "en-GB": "Tai Sang Bank",
+    "swift": "TSBLHKHH"
+  },
+  {
+    "code": "062",
+    "zh_HK": "前 國際商業信貸銀行",
+    "en-GB": "Bank of Credit and Commerce",
+    "swift": ""
+  },
+  {
+    "code": "063",
+    "zh_HK": "馬來亞銀行",
+    "en-GB": "Malayan Banking Berhad (Maybank)",
+    "swift": ""
+  },
+  {
+    "code": "064",
+    "zh_HK": "前「華僑商業銀行」",
+    "en-GB": "Previously as \"Hua Chiao Commercial Bank",
+    "swift": ""
+  },
+  {
+    "code": "065",
+    "zh_HK": "三井住友銀行",
+    "en-GB": "Sumitomo Mitsui Banking Corporation",
+    "swift": ""
+  },
+  {
+    "code": "066",
+    "zh_HK": "印尼國家銀行",
+    "en-GB": "PT. Bank Negara Indonesia (Persero), Tbk.",
+    "swift": ""
+  },
+  {
+    "code": "067",
+    "zh_HK": "BDO Unibank, Inc.",
+    "en-GB": "BDO Unibank, Inc.",
+    "swift": ""
+  },
+  {
+    "code": "070",
+    "zh_HK": "前「寶生銀行」",
+    "en-GB": "Previously as \"Po Sang Bank",
+    "swift": ""
+  },
+  {
+    "code": "071",
+    "zh_HK": "大華銀行",
+    "en-GB": "United Overseas Bank",
+    "swift": ""
+  },
+  {
+    "code": "072",
+    "zh_HK": "中國工商銀行（亞洲）有限公司",
+    "en-GB": "Industrial and Commercial Bank of China (Asia)",
+    "swift": "ICBKHKHH"
+  },
+  {
+    "code": "073",
+    "zh_HK": "前「建新銀行」",
+    "en-GB": "Previously as \"Jian Sing Bank",
+    "swift": ""
+  },
+  {
+    "code": "074",
+    "zh_HK": "巴克萊銀行",
+    "en-GB": "Barclays Bank PLC",
+    "swift": ""
+  },
+  {
+    "code": "075",
+    "zh_HK": "Manufacturers Hanover Trust Company",
+    "en-GB": "Manufacturers Hanover Trust Company",
+    "swift": ""
+  },
+  {
+    "code": "076",
+    "zh_HK": "加拿大豐業銀行",
+    "en-GB": "Bank of Nova Scotia（THE）",
+    "swift": ""
+  },
+  {
+    "code": "079",
+    "zh_HK": "Lloyds Bank PLC",
+    "en-GB": "Lloyds Bank PLC",
+    "swift": ""
+  },
+  {
+    "code": "080",
+    "zh_HK": "加拿大皇家銀行",
+    "en-GB": "Royal Bank of Canada",
+    "swift": ""
+  },
+  {
+    "code": "081",
+    "zh_HK": "法國興業銀行",
+    "en-GB": "Societe Generale",
+    "swift": ""
+  },
+  {
+    "code": "082",
+    "zh_HK": "印度國家銀行",
+    "en-GB": "State Bank of India",
+    "swift": ""
+  },
+  {
+    "code": "085",
+    "zh_HK": "The Toronto-Dominion Bank",
+    "en-GB": "The Toronto-Dominion Bank",
+    "swift": ""
+  },
+  {
+    "code": "086",
+    "zh_HK": "蒙特婁銀行",
+    "en-GB": "Bank of Montreal",
+    "swift": ""
+  },
+  {
+    "code": "092",
+    "zh_HK": "加拿大帝國商業銀行",
+    "en-GB": "Canadian Imperial Bank of Commerce",
+    "swift": ""
+  },
+  {
+    "code": "097",
+    "zh_HK": "德國商業銀行",
+    "en-GB": "Commerzbank AG",
+    "swift": ""
+  }
+]

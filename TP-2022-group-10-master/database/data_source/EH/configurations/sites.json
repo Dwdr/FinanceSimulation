@@ -1,0 +1,111 @@
+[
+  {
+    "cn" : "中西區民政事務處",
+    "en" : "Central and Western District Office",
+    "lat" : 22.286909614565698,
+    "long" : 114.1550771237986
+  },
+  {
+    "cn" : "東區民政事務處",
+    "en" : "Eastern District Office",
+    "lat" : 22.288578112123382,
+    "long" : 114.19097916612732
+  },
+  {
+    "cn" : "南區民政事務處",
+    "en" : "Southern District Office",
+    "lat" : 22.247457248802856,
+    "long" : 114.15882333914062
+  },
+  {
+    "cn" : "灣仔民政事務處",
+    "en" : "Wan Chai District Office",
+    "lat" : 22.27749434468226,
+    "long" : 114.17279744900351
+  },
+  {
+    "cn" : "九龍城民政事務處",
+    "en" : "Kowloon City District Office",
+    "lat" : 22.302450657847793,
+    "long" : 114.1916979121562
+  },
+  {
+    "cn" : "觀塘民政事務處",
+    "en" : "Kwun Tong District Office",
+    "lat" : 22.313716745277517,
+    "long" : 114.22204206797792
+  },
+  {
+    "cn" : "深水埗民政事務處",
+    "en" : "Sham Shui Po District Office",
+    "lat" : 22.334249533163117,
+    "long" : 114.15747459681403
+  },
+  {
+    "cn" : "黃大仙民政事務處",
+    "en" : "Wong Tai Sin District Office",
+    "lat" : 22.342334670099234,
+    "long" : 114.19214728380119
+  },
+  {
+    "cn" : "油尖旺民政事務處",
+    "en" : "Yau Tsim Mong District Office",
+    "lat" : 22.321552333394767,
+    "long" : 114.1725389526353
+  },
+  {
+    "cn" : "離島民政事務處",
+    "en" : "Islands District Office",
+    "lat" : 22.29141354641482,
+    "long" : 113.93993722747035
+  },
+  {
+    "cn" : "葵青民政事務處",
+    "en" : "Kwai Tsing District Office",
+    "lat" : 22.363405111307976,
+    "long" : 114.13164491215751
+  },
+  {
+    "cn" : "北區民政事務處",
+    "en" : "North District Office",
+    "lat" : 22.49485522346225,
+    "long" : 114.13804820846059
+  },
+  {
+    "cn" : "西貢民政事務處",
+    "en" : "Sai Kung District Office",
+    "lat" : 22.31759121402692,
+    "long" : 114.26835892564935
+  },
+  {
+    "cn" : "沙田民政事務處",
+    "en" : "Sha Tin District Office",
+    "lat" : 22.385540,
+    "long" : 114.186890
+  },
+  {
+    "cn" : "大埔民政事務處",
+    "en" : "Tai Po District Office",
+    "lat" : 22.462110,
+    "long" : 114.184810
+  },
+
+  {
+    "cn" : "荃灣民政事務處",
+    "en" : "Tsuen Wan District Office",
+    "lat" : 22.374720,
+    "long" : 114.112960
+  },
+  {
+    "cn" : "屯門民政事務處",
+    "en" : "Tuen Mun District Office",
+    "lat" : 22.392360,
+    "long" : 113.977570
+  },
+  {
+    "cn" : "元朗民政事務處",
+    "en" : "Yuen Long District Office",
+    "lat" : 22.445490,
+    "long" : 114.023160
+  }
+]

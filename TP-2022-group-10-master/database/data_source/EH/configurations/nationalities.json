@@ -1,0 +1,2001 @@
+[
+    {
+        "id": 4,
+        "zh_HK": "阿富汗",
+        "alpha2": "af",
+        "alpha3": "afg",
+        "en-GB": "Afghanistan",
+        "zh_CN": "阿富汗"
+    },
+    {
+        "id": 248,
+        "zh_HK": "奧蘭",
+        "alpha2": "ax",
+        "alpha3": "ala",
+        "en-GB": "Åland Islands",
+        "zh_CN": "奥兰"
+    },
+    {
+        "id": 8,
+        "zh_HK": "阿爾巴尼亞",
+        "alpha2": "al",
+        "alpha3": "alb",
+        "en-GB": "Albania",
+        "zh_CN": "阿尔巴尼亚"
+    },
+    {
+        "id": 12,
+        "zh_HK": "阿爾及利亞",
+        "alpha2": "dz",
+        "alpha3": "dza",
+        "en-GB": "Algeria",
+        "zh_CN": "阿尔及利亚"
+    },
+    {
+        "id": 16,
+        "zh_HK": "美屬薩摩亞",
+        "alpha2": "as",
+        "alpha3": "asm",
+        "en-GB": "American Samoa",
+        "zh_CN": "美属萨摩亚"
+    },
+    {
+        "id": 20,
+        "zh_HK": "安道爾",
+        "alpha2": "ad",
+        "alpha3": "and",
+        "en-GB": "Andorra",
+        "zh_CN": "安道尔"
+    },
+    {
+        "id": 24,
+        "zh_HK": "安哥拉",
+        "alpha2": "ao",
+        "alpha3": "ago",
+        "en-GB": "Angola",
+        "zh_CN": "安哥拉"
+    },
+    {
+        "id": 660,
+        "zh_HK": "安圭拉",
+        "alpha2": "ai",
+        "alpha3": "aia",
+        "en-GB": "Anguilla",
+        "zh_CN": "安圭拉"
+    },
+    {
+        "id": 10,
+        "zh_HK": "南極洲",
+        "alpha2": "aq",
+        "alpha3": "ata",
+        "en-GB": "Antarctica",
+        "zh_CN": "南极洲"
+    },
+    {
+        "id": 28,
+        "zh_HK": "安地卡及巴布達",
+        "alpha2": "ag",
+        "alpha3": "atg",
+        "en-GB": "Antigua and Barbuda",
+        "zh_CN": "安提瓜和巴布达"
+    },
+    {
+        "id": 32,
+        "zh_HK": "阿根廷",
+        "alpha2": "ar",
+        "alpha3": "arg",
+        "en-GB": "Argentina",
+        "zh_CN": "阿根廷"
+    },
+    {
+        "id": 51,
+        "zh_HK": "亞美尼亞",
+        "alpha2": "am",
+        "alpha3": "arm",
+        "en-GB": "Armenia",
+        "zh_CN": "亚美尼亚"
+    },
+    {
+        "id": 533,
+        "zh_HK": "阿魯巴",
+        "alpha2": "aw",
+        "alpha3": "abw",
+        "en-GB": "Aruba",
+        "zh_CN": "阿鲁巴"
+    },
+    {
+        "id": 36,
+        "zh_HK": "澳大利亞",
+        "alpha2": "au",
+        "alpha3": "aus",
+        "en-GB": "Australia",
+        "zh_CN": "澳大利亚"
+    },
+    {
+        "id": 40,
+        "zh_HK": "奧地利",
+        "alpha2": "at",
+        "alpha3": "aut",
+        "en-GB": "Austria",
+        "zh_CN": "奥地利"
+    },
+    {
+        "id": 31,
+        "zh_HK": "亞塞拜然",
+        "alpha2": "az",
+        "alpha3": "aze",
+        "en-GB": "Azerbaijan",
+        "zh_CN": "阿塞拜疆"
+    },
+    {
+        "id": 44,
+        "zh_HK": "巴哈馬",
+        "alpha2": "bs",
+        "alpha3": "bhs",
+        "en-GB": "Bahamas",
+        "zh_CN": "巴哈马"
+    },
+    {
+        "id": 48,
+        "zh_HK": "巴林",
+        "alpha2": "bh",
+        "alpha3": "bhr",
+        "en-GB": "Bahrain",
+        "zh_CN": "巴林"
+    },
+    {
+        "id": 50,
+        "zh_HK": "孟加拉國",
+        "alpha2": "bd",
+        "alpha3": "bgd",
+        "en-GB": "Bangladesh",
+        "zh_CN": "孟加拉国"
+    },
+    {
+        "id": 52,
+        "zh_HK": "巴貝多",
+        "alpha2": "bb",
+        "alpha3": "brb",
+        "en-GB": "Barbados",
+        "zh_CN": "巴巴多斯"
+    },
+    {
+        "id": 112,
+        "zh_HK": "白俄羅斯",
+        "alpha2": "by",
+        "alpha3": "blr",
+        "en-GB": "Belarus",
+        "zh_CN": "白俄罗斯"
+    },
+    {
+        "id": 56,
+        "zh_HK": "比利時",
+        "alpha2": "be",
+        "alpha3": "bel",
+        "en-GB": "Belgium",
+        "zh_CN": "比利时"
+    },
+    {
+        "id": 84,
+        "zh_HK": "貝里斯",
+        "alpha2": "bz",
+        "alpha3": "blz",
+        "en-GB": "Belize",
+        "zh_CN": "伯利兹"
+    },
+    {
+        "id": 204,
+        "zh_HK": "貝南",
+        "alpha2": "bj",
+        "alpha3": "ben",
+        "en-GB": "Benin",
+        "zh_CN": "贝宁"
+    },
+    {
+        "id": 60,
+        "zh_HK": "百慕達",
+        "alpha2": "bm",
+        "alpha3": "bmu",
+        "en-GB": "Bermuda",
+        "zh_CN": "百慕大"
+    },
+    {
+        "id": 64,
+        "zh_HK": "不丹",
+        "alpha2": "bt",
+        "alpha3": "btn",
+        "en-GB": "Bhutan",
+        "zh_CN": "不丹"
+    },
+    {
+        "id": 68,
+        "zh_HK": "玻利維亞",
+        "alpha2": "bo",
+        "alpha3": "bol",
+        "en-GB": "Bolivia (Plurinational State of)",
+        "zh_CN": "玻利维亚"
+    },
+    {
+        "id": 535,
+        "zh_HK": "荷蘭加勒比區",
+        "alpha2": "bq",
+        "alpha3": "bes",
+        "en-GB": "Bonaire, Sint Eustatius and Saba",
+        "zh_CN": "荷兰加勒比区"
+    },
+    {
+        "id": 70,
+        "zh_HK": "波赫",
+        "alpha2": "ba",
+        "alpha3": "bih",
+        "en-GB": "Bosnia and Herzegovina",
+        "zh_CN": "波黑"
+    },
+    {
+        "id": 72,
+        "zh_HK": "波札那",
+        "alpha2": "bw",
+        "alpha3": "bwa",
+        "en-GB": "Botswana",
+        "zh_CN": "博茨瓦纳"
+    },
+    {
+        "id": 74,
+        "zh_HK": "布韋島",
+        "alpha2": "bv",
+        "alpha3": "bvt",
+        "en-GB": "Bouvet Island",
+        "zh_CN": "布韦岛"
+    },
+    {
+        "id": 76,
+        "zh_HK": "巴西",
+        "alpha2": "br",
+        "alpha3": "bra",
+        "en-GB": "Brazil",
+        "zh_CN": "巴西"
+    },
+    {
+        "id": 86,
+        "zh_HK": "英屬印度洋領地",
+        "alpha2": "io",
+        "alpha3": "iot",
+        "en-GB": "British Indian Ocean Territory",
+        "zh_CN": "英属印度洋领地"
+    },
+    {
+        "id": 96,
+        "zh_HK": "汶萊",
+        "alpha2": "bn",
+        "alpha3": "brn",
+        "en-GB": "Brunei Darussalam",
+        "zh_CN": "文莱"
+    },
+    {
+        "id": 100,
+        "zh_HK": "保加利亞",
+        "alpha2": "bg",
+        "alpha3": "bgr",
+        "en-GB": "Bulgaria",
+        "zh_CN": "保加利亚"
+    },
+    {
+        "id": 854,
+        "zh_HK": "布吉納法索",
+        "alpha2": "bf",
+        "alpha3": "bfa",
+        "en-GB": "Burkina Faso",
+        "zh_CN": "布基纳法索"
+    },
+    {
+        "id": 108,
+        "zh_HK": "蒲隆地",
+        "alpha2": "bi",
+        "alpha3": "bdi",
+        "en-GB": "Burundi",
+        "zh_CN": "布隆迪"
+    },
+    {
+        "id": 132,
+        "zh_HK": "維德角",
+        "alpha2": "cv",
+        "alpha3": "cpv",
+        "en-GB": "Cabo Verde",
+        "zh_CN": "佛得角"
+    },
+    {
+        "id": 116,
+        "zh_HK": "柬埔寨",
+        "alpha2": "kh",
+        "alpha3": "khm",
+        "en-GB": "Cambodia",
+        "zh_CN": "柬埔寨"
+    },
+    {
+        "id": 120,
+        "zh_HK": "喀麥隆",
+        "alpha2": "cm",
+        "alpha3": "cmr",
+        "en-GB": "Cameroon",
+        "zh_CN": "喀麦隆"
+    },
+    {
+        "id": 124,
+        "zh_HK": "加拿大",
+        "alpha2": "ca",
+        "alpha3": "can",
+        "en-GB": "Canada",
+        "zh_CN": "加拿大"
+    },
+    {
+        "id": 136,
+        "zh_HK": "開曼群島",
+        "alpha2": "ky",
+        "alpha3": "cym",
+        "en-GB": "Cayman Islands",
+        "zh_CN": "开曼群岛"
+    },
+    {
+        "id": 140,
+        "zh_HK": "中非",
+        "alpha2": "cf",
+        "alpha3": "caf",
+        "en-GB": "Central African Republic",
+        "zh_CN": "中非"
+    },
+    {
+        "id": 148,
+        "zh_HK": "查德",
+        "alpha2": "td",
+        "alpha3": "tcd",
+        "en-GB": "Chad",
+        "zh_CN": "乍得"
+    },
+    {
+        "id": 152,
+        "zh_HK": "智利",
+        "alpha2": "cl",
+        "alpha3": "chl",
+        "en-GB": "Chile",
+        "zh_CN": "智利"
+    },
+    {
+        "id": 156,
+        "zh_HK": "中國",
+        "alpha2": "cn",
+        "alpha3": "chn",
+        "en-GB": "China",
+        "zh_CN": "中国"
+    },
+    {
+        "id": 162,
+        "zh_HK": "聖誕島",
+        "alpha2": "cx",
+        "alpha3": "cxr",
+        "en-GB": "Christmas Island",
+        "zh_CN": "圣诞岛"
+    },
+    {
+        "id": 166,
+        "zh_HK": "科科斯（基林）群島",
+        "alpha2": "cc",
+        "alpha3": "cck",
+        "en-GB": "Cocos (Keeling) Islands",
+        "zh_CN": "科科斯（基林）群岛"
+    },
+    {
+        "id": 170,
+        "zh_HK": "哥倫比亞",
+        "alpha2": "co",
+        "alpha3": "col",
+        "en-GB": "Colombia",
+        "zh_CN": "哥伦比亚"
+    },
+    {
+        "id": 174,
+        "zh_HK": "葛摩",
+        "alpha2": "km",
+        "alpha3": "com",
+        "en-GB": "Comoros",
+        "zh_CN": "科摩罗"
+    },
+    {
+        "id": 178,
+        "zh_HK": "剛果共和國",
+        "alpha2": "cg",
+        "alpha3": "cog",
+        "en-GB": "Congo",
+        "zh_CN": "刚果共和国"
+    },
+    {
+        "id": 180,
+        "zh_HK": "剛果民主共和國",
+        "alpha2": "cd",
+        "alpha3": "cod",
+        "en-GB": "Congo, Democratic Republic of the",
+        "zh_CN": "刚果民主共和国"
+    },
+    {
+        "id": 184,
+        "zh_HK": "庫克群島",
+        "alpha2": "ck",
+        "alpha3": "cok",
+        "en-GB": "Cook Islands",
+        "zh_CN": "库克群岛"
+    },
+    {
+        "id": 188,
+        "zh_HK": "哥斯大黎加",
+        "alpha2": "cr",
+        "alpha3": "cri",
+        "en-GB": "Costa Rica",
+        "zh_CN": "哥斯达黎加"
+    },
+    {
+        "id": 384,
+        "zh_HK": "象牙海岸",
+        "alpha2": "ci",
+        "alpha3": "civ",
+        "en-GB": "Côte d'Ivoire",
+        "zh_CN": "科特迪瓦"
+    },
+    {
+        "id": 191,
+        "zh_HK": "克羅埃西亞",
+        "alpha2": "hr",
+        "alpha3": "hrv",
+        "en-GB": "Croatia",
+        "zh_CN": "克罗地亚"
+    },
+    {
+        "id": 192,
+        "zh_HK": "古巴",
+        "alpha2": "cu",
+        "alpha3": "cub",
+        "en-GB": "Cuba",
+        "zh_CN": "古巴"
+    },
+    {
+        "id": 531,
+        "zh_HK": "古拉索",
+        "alpha2": "cw",
+        "alpha3": "cuw",
+        "en-GB": "Curaçao",
+        "zh_CN": "库拉索"
+    },
+    {
+        "id": 196,
+        "zh_HK": "賽普勒斯",
+        "alpha2": "cy",
+        "alpha3": "cyp",
+        "en-GB": "Cyprus",
+        "zh_CN": "塞浦路斯"
+    },
+    {
+        "id": 203,
+        "zh_HK": "捷克",
+        "alpha2": "cz",
+        "alpha3": "cze",
+        "en-GB": "Czechia",
+        "zh_CN": "捷克"
+    },
+    {
+        "id": 208,
+        "zh_HK": "丹麥",
+        "alpha2": "dk",
+        "alpha3": "dnk",
+        "en-GB": "Denmark",
+        "zh_CN": "丹麦"
+    },
+    {
+        "id": 262,
+        "zh_HK": "吉布地",
+        "alpha2": "dj",
+        "alpha3": "dji",
+        "en-GB": "Djibouti",
+        "zh_CN": "吉布提"
+    },
+    {
+        "id": 212,
+        "zh_HK": "多米尼克",
+        "alpha2": "dm",
+        "alpha3": "dma",
+        "en-GB": "Dominica",
+        "zh_CN": "多米尼克"
+    },
+    {
+        "id": 214,
+        "zh_HK": "多明尼加",
+        "alpha2": "do",
+        "alpha3": "dom",
+        "en-GB": "Dominican Republic",
+        "zh_CN": "多米尼加"
+    },
+    {
+        "id": 218,
+        "zh_HK": "厄瓜多",
+        "alpha2": "ec",
+        "alpha3": "ecu",
+        "en-GB": "Ecuador",
+        "zh_CN": "厄瓜多尔"
+    },
+    {
+        "id": 818,
+        "zh_HK": "埃及",
+        "alpha2": "eg",
+        "alpha3": "egy",
+        "en-GB": "Egypt",
+        "zh_CN": "埃及"
+    },
+    {
+        "id": 222,
+        "zh_HK": "薩爾瓦多",
+        "alpha2": "sv",
+        "alpha3": "slv",
+        "en-GB": "El Salvador",
+        "zh_CN": "萨尔瓦多"
+    },
+    {
+        "id": 226,
+        "zh_HK": "赤道幾內亞",
+        "alpha2": "gq",
+        "alpha3": "gnq",
+        "en-GB": "Equatorial Guinea",
+        "zh_CN": "赤道几内亚"
+    },
+    {
+        "id": 232,
+        "zh_HK": "厄利垂亞",
+        "alpha2": "er",
+        "alpha3": "eri",
+        "en-GB": "Eritrea",
+        "zh_CN": "厄立特里亚"
+    },
+    {
+        "id": 233,
+        "zh_HK": "愛沙尼亞",
+        "alpha2": "ee",
+        "alpha3": "est",
+        "en-GB": "Estonia",
+        "zh_CN": "爱沙尼亚"
+    },
+    {
+        "id": 748,
+        "zh_HK": "史瓦帝尼",
+        "alpha2": "sz",
+        "alpha3": "swz",
+        "en-GB": "Eswatini",
+        "zh_CN": "斯威士兰"
+    },
+    {
+        "id": 231,
+        "zh_HK": "衣索比亞",
+        "alpha2": "et",
+        "alpha3": "eth",
+        "en-GB": "Ethiopia",
+        "zh_CN": "埃塞俄比亚"
+    },
+    {
+        "id": 238,
+        "zh_HK": "福克蘭群島",
+        "alpha2": "fk",
+        "alpha3": "flk",
+        "en-GB": "Falkland Islands (Malvinas)",
+        "zh_CN": "福克兰群岛"
+    },
+    {
+        "id": 234,
+        "zh_HK": "法羅群島",
+        "alpha2": "fo",
+        "alpha3": "fro",
+        "en-GB": "Faroe Islands",
+        "zh_CN": "法罗群岛"
+    },
+    {
+        "id": 242,
+        "zh_HK": "斐濟",
+        "alpha2": "fj",
+        "alpha3": "fji",
+        "en-GB": "Fiji",
+        "zh_CN": "斐济"
+    },
+    {
+        "id": 246,
+        "zh_HK": "芬蘭",
+        "alpha2": "fi",
+        "alpha3": "fin",
+        "en-GB": "Finland",
+        "zh_CN": "芬兰"
+    },
+    {
+        "id": 250,
+        "zh_HK": "法國",
+        "alpha2": "fr",
+        "alpha3": "fra",
+        "en-GB": "France",
+        "zh_CN": "法国"
+    },
+    {
+        "id": 254,
+        "zh_HK": "法屬圭亞那",
+        "alpha2": "gf",
+        "alpha3": "guf",
+        "en-GB": "French Guiana",
+        "zh_CN": "法属圭亚那"
+    },
+    {
+        "id": 258,
+        "zh_HK": "法屬玻里尼西亞",
+        "alpha2": "pf",
+        "alpha3": "pyf",
+        "en-GB": "French Polynesia",
+        "zh_CN": "法属波利尼西亚"
+    },
+    {
+        "id": 260,
+        "zh_HK": "法屬南部和南極領地",
+        "alpha2": "tf",
+        "alpha3": "atf",
+        "en-GB": "French Southern Territories",
+        "zh_CN": "法属南部和南极领地"
+    },
+    {
+        "id": 266,
+        "zh_HK": "加彭",
+        "alpha2": "ga",
+        "alpha3": "gab",
+        "en-GB": "Gabon",
+        "zh_CN": "加蓬"
+    },
+    {
+        "id": 270,
+        "zh_HK": "甘比亞",
+        "alpha2": "gm",
+        "alpha3": "gmb",
+        "en-GB": "Gambia",
+        "zh_CN": "冈比亚"
+    },
+    {
+        "id": 268,
+        "zh_HK": "喬治亞",
+        "alpha2": "ge",
+        "alpha3": "geo",
+        "en-GB": "Georgia",
+        "zh_CN": "格鲁吉亚"
+    },
+    {
+        "id": 276,
+        "zh_HK": "德國",
+        "alpha2": "de",
+        "alpha3": "deu",
+        "en-GB": "Germany",
+        "zh_CN": "德国"
+    },
+    {
+        "id": 288,
+        "zh_HK": "加納",
+        "alpha2": "gh",
+        "alpha3": "gha",
+        "en-GB": "Ghana",
+        "zh_CN": "加纳"
+    },
+    {
+        "id": 292,
+        "zh_HK": "直布羅陀",
+        "alpha2": "gi",
+        "alpha3": "gib",
+        "en-GB": "Gibraltar",
+        "zh_CN": "直布罗陀"
+    },
+    {
+        "id": 300,
+        "zh_HK": "希臘",
+        "alpha2": "gr",
+        "alpha3": "grc",
+        "en-GB": "Greece",
+        "zh_CN": "希腊"
+    },
+    {
+        "id": 304,
+        "zh_HK": "格陵蘭",
+        "alpha2": "gl",
+        "alpha3": "grl",
+        "en-GB": "Greenland",
+        "zh_CN": "格陵兰"
+    },
+    {
+        "id": 308,
+        "zh_HK": "格瑞那達",
+        "alpha2": "gd",
+        "alpha3": "grd",
+        "en-GB": "Grenada",
+        "zh_CN": "格林纳达"
+    },
+    {
+        "id": 312,
+        "zh_HK": "瓜地洛普",
+        "alpha2": "gp",
+        "alpha3": "glp",
+        "en-GB": "Guadeloupe",
+        "zh_CN": "瓜德罗普"
+    },
+    {
+        "id": 316,
+        "zh_HK": "關島",
+        "alpha2": "gu",
+        "alpha3": "gum",
+        "en-GB": "Guam",
+        "zh_CN": "关岛"
+    },
+    {
+        "id": 320,
+        "zh_HK": "瓜地馬拉",
+        "alpha2": "gt",
+        "alpha3": "gtm",
+        "en-GB": "Guatemala",
+        "zh_CN": "危地马拉"
+    },
+    {
+        "id": 831,
+        "zh_HK": "根西",
+        "alpha2": "gg",
+        "alpha3": "ggy",
+        "en-GB": "Guernsey",
+        "zh_CN": "根西"
+    },
+    {
+        "id": 324,
+        "zh_HK": "幾內亞",
+        "alpha2": "gn",
+        "alpha3": "gin",
+        "en-GB": "Guinea",
+        "zh_CN": "几内亚"
+    },
+    {
+        "id": 624,
+        "zh_HK": "幾內亞比索",
+        "alpha2": "gw",
+        "alpha3": "gnb",
+        "en-GB": "Guinea-Bissau",
+        "zh_CN": "几内亚比绍"
+    },
+    {
+        "id": 328,
+        "zh_HK": "蓋亞那",
+        "alpha2": "gy",
+        "alpha3": "guy",
+        "en-GB": "Guyana",
+        "zh_CN": "圭亚那"
+    },
+    {
+        "id": 332,
+        "zh_HK": "海地",
+        "alpha2": "ht",
+        "alpha3": "hti",
+        "en-GB": "Haiti",
+        "zh_CN": "海地"
+    },
+    {
+        "id": 334,
+        "zh_HK": "赫德島和麥克唐納群島",
+        "alpha2": "hm",
+        "alpha3": "hmd",
+        "en-GB": "Heard Island and McDonald Islands",
+        "zh_CN": "赫德岛和麦克唐纳群岛"
+    },
+    {
+        "id": 336,
+        "zh_HK": "梵蒂岡",
+        "alpha2": "va",
+        "alpha3": "vat",
+        "en-GB": "Holy See",
+        "zh_CN": "梵蒂冈"
+    },
+    {
+        "id": 340,
+        "zh_HK": "宏都拉斯",
+        "alpha2": "hn",
+        "alpha3": "hnd",
+        "en-GB": "Honduras",
+        "zh_CN": "洪都拉斯"
+    },
+    {
+        "id": 344,
+        "zh_HK": "香港",
+        "alpha2": "hk",
+        "alpha3": "hkg",
+        "en-GB": "Hong Kong",
+        "zh_CN": "香港"
+    },
+    {
+        "id": 348,
+        "zh_HK": "匈牙利",
+        "alpha2": "hu",
+        "alpha3": "hun",
+        "en-GB": "Hungary",
+        "zh_CN": "匈牙利"
+    },
+    {
+        "id": 352,
+        "zh_HK": "冰島",
+        "alpha2": "is",
+        "alpha3": "isl",
+        "en-GB": "Iceland",
+        "zh_CN": "冰岛"
+    },
+    {
+        "id": 356,
+        "zh_HK": "印度",
+        "alpha2": "in",
+        "alpha3": "ind",
+        "en-GB": "India",
+        "zh_CN": "印度"
+    },
+    {
+        "id": 360,
+        "zh_HK": "印尼",
+        "alpha2": "id",
+        "alpha3": "idn",
+        "en-GB": "Indonesia",
+        "zh_CN": "印尼"
+    },
+    {
+        "id": 364,
+        "zh_HK": "伊朗",
+        "alpha2": "ir",
+        "alpha3": "irn",
+        "en-GB": "Iran (Islamic Republic of)",
+        "zh_CN": "伊朗"
+    },
+    {
+        "id": 368,
+        "zh_HK": "伊拉克",
+        "alpha2": "iq",
+        "alpha3": "irq",
+        "en-GB": "Iraq",
+        "zh_CN": "伊拉克"
+    },
+    {
+        "id": 372,
+        "zh_HK": "愛爾蘭",
+        "alpha2": "ie",
+        "alpha3": "irl",
+        "en-GB": "Ireland",
+        "zh_CN": "爱尔兰"
+    },
+    {
+        "id": 833,
+        "zh_HK": "曼島",
+        "alpha2": "im",
+        "alpha3": "imn",
+        "en-GB": "Isle of Man",
+        "zh_CN": "马恩岛"
+    },
+    {
+        "id": 376,
+        "zh_HK": "以色列",
+        "alpha2": "il",
+        "alpha3": "isr",
+        "en-GB": "Israel",
+        "zh_CN": "以色列"
+    },
+    {
+        "id": 380,
+        "zh_HK": "義大利",
+        "alpha2": "it",
+        "alpha3": "ita",
+        "en-GB": "Italy",
+        "zh_CN": "意大利"
+    },
+    {
+        "id": 388,
+        "zh_HK": "牙買加",
+        "alpha2": "jm",
+        "alpha3": "jam",
+        "en-GB": "Jamaica",
+        "zh_CN": "牙买加"
+    },
+    {
+        "id": 392,
+        "zh_HK": "日本",
+        "alpha2": "jp",
+        "alpha3": "jpn",
+        "en-GB": "Japan",
+        "zh_CN": "日本"
+    },
+    {
+        "id": 832,
+        "zh_HK": "澤西",
+        "alpha2": "je",
+        "alpha3": "jey",
+        "en-GB": "Jersey",
+        "zh_CN": "泽西"
+    },
+    {
+        "id": 400,
+        "zh_HK": "約旦",
+        "alpha2": "jo",
+        "alpha3": "jor",
+        "en-GB": "Jordan",
+        "zh_CN": "约旦"
+    },
+    {
+        "id": 398,
+        "zh_HK": "哈薩克",
+        "alpha2": "kz",
+        "alpha3": "kaz",
+        "en-GB": "Kazakhstan",
+        "zh_CN": "哈萨克斯坦"
+    },
+    {
+        "id": 404,
+        "zh_HK": "肯亞",
+        "alpha2": "ke",
+        "alpha3": "ken",
+        "en-GB": "Kenya",
+        "zh_CN": "肯尼亚"
+    },
+    {
+        "id": 296,
+        "zh_HK": "吉里巴斯",
+        "alpha2": "ki",
+        "alpha3": "kir",
+        "en-GB": "Kiribati",
+        "zh_CN": "基里巴斯"
+    },
+    {
+        "id": 408,
+        "zh_HK": "北韓",
+        "alpha2": "kp",
+        "alpha3": "prk",
+        "en-GB": "Korea (Democratic People's Republic of)",
+        "zh_CN": "朝鲜"
+    },
+    {
+        "id": 410,
+        "zh_HK": "韓國",
+        "alpha2": "kr",
+        "alpha3": "kor",
+        "en-GB": "Korea, Republic of",
+        "zh_CN": "韩国"
+    },
+    {
+        "id": 414,
+        "zh_HK": "科威特",
+        "alpha2": "kw",
+        "alpha3": "kwt",
+        "en-GB": "Kuwait",
+        "zh_CN": "科威特"
+    },
+    {
+        "id": 417,
+        "zh_HK": "吉爾吉斯",
+        "alpha2": "kg",
+        "alpha3": "kgz",
+        "en-GB": "Kyrgyzstan",
+        "zh_CN": "吉尔吉斯斯坦"
+    },
+    {
+        "id": 418,
+        "zh_HK": "寮國",
+        "alpha2": "la",
+        "alpha3": "lao",
+        "en-GB": "Lao People's Democratic Republic",
+        "zh_CN": "老挝"
+    },
+    {
+        "id": 428,
+        "zh_HK": "拉脫維亞",
+        "alpha2": "lv",
+        "alpha3": "lva",
+        "en-GB": "Latvia",
+        "zh_CN": "拉脱维亚"
+    },
+    {
+        "id": 422,
+        "zh_HK": "黎巴嫩",
+        "alpha2": "lb",
+        "alpha3": "lbn",
+        "en-GB": "Lebanon",
+        "zh_CN": "黎巴嫩"
+    },
+    {
+        "id": 426,
+        "zh_HK": "賴索托",
+        "alpha2": "ls",
+        "alpha3": "lso",
+        "en-GB": "Lesotho",
+        "zh_CN": "莱索托"
+    },
+    {
+        "id": 430,
+        "zh_HK": "賴比瑞亞",
+        "alpha2": "lr",
+        "alpha3": "lbr",
+        "en-GB": "Liberia",
+        "zh_CN": "利比里亚"
+    },
+    {
+        "id": 434,
+        "zh_HK": "利比亞",
+        "alpha2": "ly",
+        "alpha3": "lby",
+        "en-GB": "Libya",
+        "zh_CN": "利比亚"
+    },
+    {
+        "id": 438,
+        "zh_HK": "列支敦斯登",
+        "alpha2": "li",
+        "alpha3": "lie",
+        "en-GB": "Liechtenstein",
+        "zh_CN": "列支敦士登"
+    },
+    {
+        "id": 440,
+        "zh_HK": "立陶宛",
+        "alpha2": "lt",
+        "alpha3": "ltu",
+        "en-GB": "Lithuania",
+        "zh_CN": "立陶宛"
+    },
+    {
+        "id": 442,
+        "zh_HK": "盧森堡",
+        "alpha2": "lu",
+        "alpha3": "lux",
+        "en-GB": "Luxembourg",
+        "zh_CN": "卢森堡"
+    },
+    {
+        "id": 446,
+        "zh_HK": "澳門",
+        "alpha2": "mo",
+        "alpha3": "mac",
+        "en-GB": "Macao",
+        "zh_CN": "澳门"
+    },
+    {
+        "id": 450,
+        "zh_HK": "馬達加斯加",
+        "alpha2": "mg",
+        "alpha3": "mdg",
+        "en-GB": "Madagascar",
+        "zh_CN": "马达加斯加"
+    },
+    {
+        "id": 454,
+        "zh_HK": "馬拉威",
+        "alpha2": "mw",
+        "alpha3": "mwi",
+        "en-GB": "Malawi",
+        "zh_CN": "马拉维"
+    },
+    {
+        "id": 458,
+        "zh_HK": "馬來西亞",
+        "alpha2": "my",
+        "alpha3": "mys",
+        "en-GB": "Malaysia",
+        "zh_CN": "马来西亚"
+    },
+    {
+        "id": 462,
+        "zh_HK": "馬爾地夫",
+        "alpha2": "mv",
+        "alpha3": "mdv",
+        "en-GB": "Maldives",
+        "zh_CN": "马尔代夫"
+    },
+    {
+        "id": 466,
+        "zh_HK": "馬利",
+        "alpha2": "ml",
+        "alpha3": "mli",
+        "en-GB": "Mali",
+        "zh_CN": "马里"
+    },
+    {
+        "id": 470,
+        "zh_HK": "馬爾他",
+        "alpha2": "mt",
+        "alpha3": "mlt",
+        "en-GB": "Malta",
+        "zh_CN": "马耳他"
+    },
+    {
+        "id": 584,
+        "zh_HK": "馬紹爾群島",
+        "alpha2": "mh",
+        "alpha3": "mhl",
+        "en-GB": "Marshall Islands",
+        "zh_CN": "马绍尔群岛"
+    },
+    {
+        "id": 474,
+        "zh_HK": "馬丁尼克",
+        "alpha2": "mq",
+        "alpha3": "mtq",
+        "en-GB": "Martinique",
+        "zh_CN": "马提尼克"
+    },
+    {
+        "id": 478,
+        "zh_HK": "茅利塔尼亞",
+        "alpha2": "mr",
+        "alpha3": "mrt",
+        "en-GB": "Mauritania",
+        "zh_CN": "毛里塔尼亚"
+    },
+    {
+        "id": 480,
+        "zh_HK": "模里西斯",
+        "alpha2": "mu",
+        "alpha3": "mus",
+        "en-GB": "Mauritius",
+        "zh_CN": "毛里求斯"
+    },
+    {
+        "id": 175,
+        "zh_HK": "馬約特",
+        "alpha2": "yt",
+        "alpha3": "myt",
+        "en-GB": "Mayotte",
+        "zh_CN": "马约特"
+    },
+    {
+        "id": 484,
+        "zh_HK": "墨西哥",
+        "alpha2": "mx",
+        "alpha3": "mex",
+        "en-GB": "Mexico",
+        "zh_CN": "墨西哥"
+    },
+    {
+        "id": 583,
+        "zh_HK": "密克羅尼西亞聯邦",
+        "alpha2": "fm",
+        "alpha3": "fsm",
+        "en-GB": "Micronesia (Federated States of)",
+        "zh_CN": "密克罗尼西亚联邦"
+    },
+    {
+        "id": 498,
+        "zh_HK": "摩爾多瓦",
+        "alpha2": "md",
+        "alpha3": "mda",
+        "en-GB": "Moldova, Republic of",
+        "zh_CN": "摩尔多瓦"
+    },
+    {
+        "id": 492,
+        "zh_HK": "摩納哥",
+        "alpha2": "mc",
+        "alpha3": "mco",
+        "en-GB": "Monaco",
+        "zh_CN": "摩纳哥"
+    },
+    {
+        "id": 496,
+        "zh_HK": "蒙古國",
+        "alpha2": "mn",
+        "alpha3": "mng",
+        "en-GB": "Mongolia",
+        "zh_CN": "蒙古国"
+    },
+    {
+        "id": 499,
+        "zh_HK": "蒙特內哥羅",
+        "alpha2": "me",
+        "alpha3": "mne",
+        "en-GB": "Montenegro",
+        "zh_CN": "黑山"
+    },
+    {
+        "id": 500,
+        "zh_HK": "蒙特塞拉特",
+        "alpha2": "ms",
+        "alpha3": "msr",
+        "en-GB": "Montserrat",
+        "zh_CN": "蒙特塞拉特"
+    },
+    {
+        "id": 504,
+        "zh_HK": "摩洛哥",
+        "alpha2": "ma",
+        "alpha3": "mar",
+        "en-GB": "Morocco",
+        "zh_CN": "摩洛哥"
+    },
+    {
+        "id": 508,
+        "zh_HK": "莫三比克",
+        "alpha2": "mz",
+        "alpha3": "moz",
+        "en-GB": "Mozambique",
+        "zh_CN": "莫桑比克"
+    },
+    {
+        "id": 104,
+        "zh_HK": "緬甸",
+        "alpha2": "mm",
+        "alpha3": "mmr",
+        "en-GB": "Myanmar",
+        "zh_CN": "缅甸"
+    },
+    {
+        "id": 516,
+        "zh_HK": "納米比亞",
+        "alpha2": "na",
+        "alpha3": "nam",
+        "en-GB": "Namibia",
+        "zh_CN": "纳米比亚"
+    },
+    {
+        "id": 520,
+        "zh_HK": "諾魯",
+        "alpha2": "nr",
+        "alpha3": "nru",
+        "en-GB": "Nauru",
+        "zh_CN": "瑙鲁"
+    },
+    {
+        "id": 524,
+        "zh_HK": "尼泊爾",
+        "alpha2": "np",
+        "alpha3": "npl",
+        "en-GB": "Nepal",
+        "zh_CN": "尼泊尔"
+    },
+    {
+        "id": 528,
+        "zh_HK": "荷蘭",
+        "alpha2": "nl",
+        "alpha3": "nld",
+        "en-GB": "Netherlands",
+        "zh_CN": "荷兰"
+    },
+    {
+        "id": 540,
+        "zh_HK": "新喀里多尼亞",
+        "alpha2": "nc",
+        "alpha3": "ncl",
+        "en-GB": "New Caledonia",
+        "zh_CN": "新喀里多尼亚"
+    },
+    {
+        "id": 554,
+        "zh_HK": "紐西蘭",
+        "alpha2": "nz",
+        "alpha3": "nzl",
+        "en-GB": "New Zealand",
+        "zh_CN": "新西兰"
+    },
+    {
+        "id": 558,
+        "zh_HK": "尼加拉瓜",
+        "alpha2": "ni",
+        "alpha3": "nic",
+        "en-GB": "Nicaragua",
+        "zh_CN": "尼加拉瓜"
+    },
+    {
+        "id": 562,
+        "zh_HK": "尼日",
+        "alpha2": "ne",
+        "alpha3": "ner",
+        "en-GB": "Niger",
+        "zh_CN": "尼日尔"
+    },
+    {
+        "id": 566,
+        "zh_HK": "奈及利亞",
+        "alpha2": "ng",
+        "alpha3": "nga",
+        "en-GB": "Nigeria",
+        "zh_CN": "尼日利亚"
+    },
+    {
+        "id": 570,
+        "zh_HK": "紐埃",
+        "alpha2": "nu",
+        "alpha3": "niu",
+        "en-GB": "Niue",
+        "zh_CN": "纽埃"
+    },
+    {
+        "id": 574,
+        "zh_HK": "諾福克島",
+        "alpha2": "nf",
+        "alpha3": "nfk",
+        "en-GB": "Norfolk Island",
+        "zh_CN": "诺福克岛"
+    },
+    {
+        "id": 807,
+        "zh_HK": "北馬其頓",
+        "alpha2": "mk",
+        "alpha3": "mkd",
+        "en-GB": "North Macedonia",
+        "zh_CN": "北马其顿"
+    },
+    {
+        "id": 580,
+        "zh_HK": "北馬利安納群島",
+        "alpha2": "mp",
+        "alpha3": "mnp",
+        "en-GB": "Northern Mariana Islands",
+        "zh_CN": "北马里亚纳群岛"
+    },
+    {
+        "id": 578,
+        "zh_HK": "挪威",
+        "alpha2": "no",
+        "alpha3": "nor",
+        "en-GB": "Norway",
+        "zh_CN": "挪威"
+    },
+    {
+        "id": 512,
+        "zh_HK": "阿曼",
+        "alpha2": "om",
+        "alpha3": "omn",
+        "en-GB": "Oman",
+        "zh_CN": "阿曼"
+    },
+    {
+        "id": 586,
+        "zh_HK": "巴基斯坦",
+        "alpha2": "pk",
+        "alpha3": "pak",
+        "en-GB": "Pakistan",
+        "zh_CN": "巴基斯坦"
+    },
+    {
+        "id": 585,
+        "zh_HK": "帛琉",
+        "alpha2": "pw",
+        "alpha3": "plw",
+        "en-GB": "Palau",
+        "zh_CN": "帕劳"
+    },
+    {
+        "id": 275,
+        "zh_HK": "巴勒斯坦",
+        "alpha2": "ps",
+        "alpha3": "pse",
+        "en-GB": "Palestine, State of",
+        "zh_CN": "巴勒斯坦"
+    },
+    {
+        "id": 591,
+        "zh_HK": "巴拿馬",
+        "alpha2": "pa",
+        "alpha3": "pan",
+        "en-GB": "Panama",
+        "zh_CN": "巴拿马"
+    },
+    {
+        "id": 598,
+        "zh_HK": "巴布亞紐幾內亞",
+        "alpha2": "pg",
+        "alpha3": "png",
+        "en-GB": "Papua New Guinea",
+        "zh_CN": "巴布亚新几内亚"
+    },
+    {
+        "id": 600,
+        "zh_HK": "巴拉圭",
+        "alpha2": "py",
+        "alpha3": "pry",
+        "en-GB": "Paraguay",
+        "zh_CN": "巴拉圭"
+    },
+    {
+        "id": 604,
+        "zh_HK": "秘魯",
+        "alpha2": "pe",
+        "alpha3": "per",
+        "en-GB": "Peru",
+        "zh_CN": "秘鲁"
+    },
+    {
+        "id": 608,
+        "zh_HK": "菲律賓",
+        "alpha2": "ph",
+        "alpha3": "phl",
+        "en-GB": "Philippines",
+        "zh_CN": "菲律宾"
+    },
+    {
+        "id": 612,
+        "zh_HK": "皮特肯群島",
+        "alpha2": "pn",
+        "alpha3": "pcn",
+        "en-GB": "Pitcairn",
+        "zh_CN": "皮特凯恩群岛"
+    },
+    {
+        "id": 616,
+        "zh_HK": "波蘭",
+        "alpha2": "pl",
+        "alpha3": "pol",
+        "en-GB": "Poland",
+        "zh_CN": "波兰"
+    },
+    {
+        "id": 620,
+        "zh_HK": "葡萄牙",
+        "alpha2": "pt",
+        "alpha3": "prt",
+        "en-GB": "Portugal",
+        "zh_CN": "葡萄牙"
+    },
+    {
+        "id": 630,
+        "zh_HK": "波多黎各",
+        "alpha2": "pr",
+        "alpha3": "pri",
+        "en-GB": "Puerto Rico",
+        "zh_CN": "波多黎各"
+    },
+    {
+        "id": 634,
+        "zh_HK": "卡達",
+        "alpha2": "qa",
+        "alpha3": "qat",
+        "en-GB": "Qatar",
+        "zh_CN": "卡塔尔"
+    },
+    {
+        "id": 638,
+        "zh_HK": "留尼旺",
+        "alpha2": "re",
+        "alpha3": "reu",
+        "en-GB": "Réunion",
+        "zh_CN": "留尼汪"
+    },
+    {
+        "id": 642,
+        "zh_HK": "羅馬尼亞",
+        "alpha2": "ro",
+        "alpha3": "rou",
+        "en-GB": "Romania",
+        "zh_CN": "罗马尼亚"
+    },
+    {
+        "id": 643,
+        "zh_HK": "俄羅斯",
+        "alpha2": "ru",
+        "alpha3": "rus",
+        "en-GB": "Russian Federation",
+        "zh_CN": "俄罗斯"
+    },
+    {
+        "id": 646,
+        "zh_HK": "盧安達",
+        "alpha2": "rw",
+        "alpha3": "rwa",
+        "en-GB": "Rwanda",
+        "zh_CN": "卢旺达"
+    },
+    {
+        "id": 652,
+        "zh_HK": "聖巴瑟米",
+        "alpha2": "bl",
+        "alpha3": "blm",
+        "en-GB": "Saint Barthélemy",
+        "zh_CN": "圣巴泰勒米"
+    },
+    {
+        "id": 654,
+        "zh_HK": "聖赫倫那、阿森松和特里斯坦-達庫尼亞",
+        "alpha2": "sh",
+        "alpha3": "shn",
+        "en-GB": "Saint Helena, Ascension and Tristan da Cunha",
+        "zh_CN": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+    },
+    {
+        "id": 659,
+        "zh_HK": "聖克里斯多福及尼維斯",
+        "alpha2": "kn",
+        "alpha3": "kna",
+        "en-GB": "Saint Kitts and Nevis",
+        "zh_CN": "圣基茨和尼维斯"
+    },
+    {
+        "id": 662,
+        "zh_HK": "聖露西亞",
+        "alpha2": "lc",
+        "alpha3": "lca",
+        "en-GB": "Saint Lucia",
+        "zh_CN": "圣卢西亚"
+    },
+    {
+        "id": 663,
+        "zh_HK": "法屬聖馬丁",
+        "alpha2": "mf",
+        "alpha3": "maf",
+        "en-GB": "Saint Martin (French part)",
+        "zh_CN": "法属圣马丁"
+    },
+    {
+        "id": 666,
+        "zh_HK": "聖皮埃與密克隆群島",
+        "alpha2": "pm",
+        "alpha3": "spm",
+        "en-GB": "Saint Pierre and Miquelon",
+        "zh_CN": "圣皮埃尔和密克隆"
+    },
+    {
+        "id": 670,
+        "zh_HK": "聖文森及格瑞那丁",
+        "alpha2": "vc",
+        "alpha3": "vct",
+        "en-GB": "Saint Vincent and the Grenadines",
+        "zh_CN": "圣文森特和格林纳丁斯"
+    },
+    {
+        "id": 882,
+        "zh_HK": "薩摩亞",
+        "alpha2": "ws",
+        "alpha3": "wsm",
+        "en-GB": "Samoa",
+        "zh_CN": "萨摩亚"
+    },
+    {
+        "id": 674,
+        "zh_HK": "聖馬利諾",
+        "alpha2": "sm",
+        "alpha3": "smr",
+        "en-GB": "San Marino",
+        "zh_CN": "圣马力诺"
+    },
+    {
+        "id": 678,
+        "zh_HK": "聖多美普林西比",
+        "alpha2": "st",
+        "alpha3": "stp",
+        "en-GB": "Sao Tome and Principe",
+        "zh_CN": "圣多美和普林西比"
+    },
+    {
+        "id": 682,
+        "zh_HK": "沙烏地阿拉伯",
+        "alpha2": "sa",
+        "alpha3": "sau",
+        "en-GB": "Saudi Arabia",
+        "zh_CN": "沙特阿拉伯"
+    },
+    {
+        "id": 686,
+        "zh_HK": "塞內加爾",
+        "alpha2": "sn",
+        "alpha3": "sen",
+        "en-GB": "Senegal",
+        "zh_CN": "塞内加尔"
+    },
+    {
+        "id": 688,
+        "zh_HK": "塞爾維亞",
+        "alpha2": "rs",
+        "alpha3": "srb",
+        "en-GB": "Serbia",
+        "zh_CN": "塞尔维亚"
+    },
+    {
+        "id": 690,
+        "zh_HK": "塞席爾",
+        "alpha2": "sc",
+        "alpha3": "syc",
+        "en-GB": "Seychelles",
+        "zh_CN": "塞舌尔"
+    },
+    {
+        "id": 694,
+        "zh_HK": "獅子山",
+        "alpha2": "sl",
+        "alpha3": "sle",
+        "en-GB": "Sierra Leone",
+        "zh_CN": "塞拉利昂"
+    },
+    {
+        "id": 702,
+        "zh_HK": "新加坡",
+        "alpha2": "sg",
+        "alpha3": "sgp",
+        "en-GB": "Singapore",
+        "zh_CN": "新加坡"
+    },
+    {
+        "id": 534,
+        "zh_HK": "荷屬聖馬丁",
+        "alpha2": "sx",
+        "alpha3": "sxm",
+        "en-GB": "Sint Maarten (Dutch part)",
+        "zh_CN": "荷属圣马丁"
+    },
+    {
+        "id": 703,
+        "zh_HK": "斯洛伐克",
+        "alpha2": "sk",
+        "alpha3": "svk",
+        "en-GB": "Slovakia",
+        "zh_CN": "斯洛伐克"
+    },
+    {
+        "id": 705,
+        "zh_HK": "斯洛維尼亞",
+        "alpha2": "si",
+        "alpha3": "svn",
+        "en-GB": "Slovenia",
+        "zh_CN": "斯洛文尼亚"
+    },
+    {
+        "id": 90,
+        "zh_HK": "索羅門群島",
+        "alpha2": "sb",
+        "alpha3": "slb",
+        "en-GB": "Solomon Islands",
+        "zh_CN": "所罗门群岛"
+    },
+    {
+        "id": 706,
+        "zh_HK": "索馬利亞",
+        "alpha2": "so",
+        "alpha3": "som",
+        "en-GB": "Somalia",
+        "zh_CN": "索马里"
+    },
+    {
+        "id": 710,
+        "zh_HK": "南非",
+        "alpha2": "za",
+        "alpha3": "zaf",
+        "en-GB": "South Africa",
+        "zh_CN": "南非"
+    },
+    {
+        "id": 239,
+        "zh_HK": "南喬治亞和南桑威奇群島",
+        "alpha2": "gs",
+        "alpha3": "sgs",
+        "en-GB": "South Georgia and the South Sandwich Islands",
+        "zh_CN": "南乔治亚和南桑威奇群岛"
+    },
+    {
+        "id": 728,
+        "zh_HK": "南蘇丹",
+        "alpha2": "ss",
+        "alpha3": "ssd",
+        "en-GB": "South Sudan",
+        "zh_CN": "南苏丹"
+    },
+    {
+        "id": 724,
+        "zh_HK": "西班牙",
+        "alpha2": "es",
+        "alpha3": "esp",
+        "en-GB": "Spain",
+        "zh_CN": "西班牙"
+    },
+    {
+        "id": 144,
+        "zh_HK": "斯里蘭卡",
+        "alpha2": "lk",
+        "alpha3": "lka",
+        "en-GB": "Sri Lanka",
+        "zh_CN": "斯里兰卡"
+    },
+    {
+        "id": 729,
+        "zh_HK": "蘇丹",
+        "alpha2": "sd",
+        "alpha3": "sdn",
+        "en-GB": "Sudan",
+        "zh_CN": "苏丹"
+    },
+    {
+        "id": 740,
+        "zh_HK": "蘇利南",
+        "alpha2": "sr",
+        "alpha3": "sur",
+        "en-GB": "Surien-GB",
+        "zh_CN": "苏里南"
+    },
+    {
+        "id": 744,
+        "zh_HK": "斯瓦爾巴和揚馬延",
+        "alpha2": "sj",
+        "alpha3": "sjm",
+        "en-GB": "Svalbard and Jan Mayen",
+        "zh_CN": "斯瓦尔巴和扬马延"
+    },
+    {
+        "id": 752,
+        "zh_HK": "瑞典",
+        "alpha2": "se",
+        "alpha3": "swe",
+        "en-GB": "Sweden",
+        "zh_CN": "瑞典"
+    },
+    {
+        "id": 756,
+        "zh_HK": "瑞士",
+        "alpha2": "ch",
+        "alpha3": "che",
+        "en-GB": "Switzerland",
+        "zh_CN": "瑞士"
+    },
+    {
+        "id": 760,
+        "zh_HK": "敘利亞",
+        "alpha2": "sy",
+        "alpha3": "syr",
+        "en-GB": "Syrian Arab Republic",
+        "zh_CN": "叙利亚"
+    },
+    {
+        "id": 158,
+        "zh_HK": "台灣",
+        "alpha2": "tw",
+        "alpha3": "twn",
+        "en-GB": "Taiwan, Province of China",
+        "zh_CN": "中国台湾省"
+    },
+    {
+        "id": 762,
+        "zh_HK": "塔吉克",
+        "alpha2": "tj",
+        "alpha3": "tjk",
+        "en-GB": "Tajikistan",
+        "zh_CN": "塔吉克斯坦"
+    },
+    {
+        "id": 834,
+        "zh_HK": "坦尚尼亞",
+        "alpha2": "tz",
+        "alpha3": "tza",
+        "en-GB": "Tanzania, United Republic of",
+        "zh_CN": "坦桑尼亚"
+    },
+    {
+        "id": 764,
+        "zh_HK": "泰國",
+        "alpha2": "th",
+        "alpha3": "tha",
+        "en-GB": "Thailand",
+        "zh_CN": "泰国"
+    },
+    {
+        "id": 626,
+        "zh_HK": "東帝汶",
+        "alpha2": "tl",
+        "alpha3": "tls",
+        "en-GB": "Timor-Leste",
+        "zh_CN": "东帝汶"
+    },
+    {
+        "id": 768,
+        "zh_HK": "多哥",
+        "alpha2": "tg",
+        "alpha3": "tgo",
+        "en-GB": "Togo",
+        "zh_CN": "多哥"
+    },
+    {
+        "id": 772,
+        "zh_HK": "托克勞",
+        "alpha2": "tk",
+        "alpha3": "tkl",
+        "en-GB": "Tokelau",
+        "zh_CN": "托克劳"
+    },
+    {
+        "id": 776,
+        "zh_HK": "東加",
+        "alpha2": "to",
+        "alpha3": "ton",
+        "en-GB": "Tonga",
+        "zh_CN": "汤加"
+    },
+    {
+        "id": 780,
+        "zh_HK": "千里達及托巴哥",
+        "alpha2": "tt",
+        "alpha3": "tto",
+        "en-GB": "Trinidad and Tobago",
+        "zh_CN": "特立尼达和多巴哥"
+    },
+    {
+        "id": 788,
+        "zh_HK": "突尼西亞",
+        "alpha2": "tn",
+        "alpha3": "tun",
+        "en-GB": "Tunisia",
+        "zh_CN": "突尼斯"
+    },
+    {
+        "id": 792,
+        "zh_HK": "土耳其",
+        "alpha2": "tr",
+        "alpha3": "tur",
+        "en-GB": "Turkey",
+        "zh_CN": "土耳其"
+    },
+    {
+        "id": 795,
+        "zh_HK": "土庫曼",
+        "alpha2": "tm",
+        "alpha3": "tkm",
+        "en-GB": "Turkmenistan",
+        "zh_CN": "土库曼斯坦"
+    },
+    {
+        "id": 796,
+        "zh_HK": "特克斯與凱科斯群島",
+        "alpha2": "tc",
+        "alpha3": "tca",
+        "en-GB": "Turks and Caicos Islands",
+        "zh_CN": "特克斯和凯科斯群岛"
+    },
+    {
+        "id": 798,
+        "zh_HK": "吐瓦魯",
+        "alpha2": "tv",
+        "alpha3": "tuv",
+        "en-GB": "Tuvalu",
+        "zh_CN": "图瓦卢"
+    },
+    {
+        "id": 800,
+        "zh_HK": "烏干達",
+        "alpha2": "ug",
+        "alpha3": "uga",
+        "en-GB": "Uganda",
+        "zh_CN": "乌干达"
+    },
+    {
+        "id": 804,
+        "zh_HK": "烏克蘭",
+        "alpha2": "ua",
+        "alpha3": "ukr",
+        "en-GB": "Ukraine",
+        "zh_CN": "乌克兰"
+    },
+    {
+        "id": 784,
+        "zh_HK": "阿聯",
+        "alpha2": "ae",
+        "alpha3": "are",
+        "en-GB": "United Arab Emirates",
+        "zh_CN": "阿联酋"
+    },
+    {
+        "id": 826,
+        "zh_HK": "英國",
+        "alpha2": "gb",
+        "alpha3": "gbr",
+        "en-GB": "United Kingdom of Great Britain and Northern Ireland",
+        "zh_CN": "英国"
+    },
+    {
+        "id": 840,
+        "zh_HK": "美國",
+        "alpha2": "us",
+        "alpha3": "usa",
+        "en-GB": "United States of America",
+        "zh_CN": "美国"
+    },
+    {
+        "id": 581,
+        "zh_HK": "美國本土外小島嶼",
+        "alpha2": "um",
+        "alpha3": "umi",
+        "en-GB": "United States Minor Outlying Islands",
+        "zh_CN": "美国本土外小岛屿"
+    },
+    {
+        "id": 858,
+        "zh_HK": "烏拉圭",
+        "alpha2": "uy",
+        "alpha3": "ury",
+        "en-GB": "Uruguay",
+        "zh_CN": "乌拉圭"
+    },
+    {
+        "id": 860,
+        "zh_HK": "烏茲別克",
+        "alpha2": "uz",
+        "alpha3": "uzb",
+        "en-GB": "Uzbekistan",
+        "zh_CN": "乌兹别克斯坦"
+    },
+    {
+        "id": 548,
+        "zh_HK": "萬那杜",
+        "alpha2": "vu",
+        "alpha3": "vut",
+        "en-GB": "Vanuatu",
+        "zh_CN": "瓦努阿图"
+    },
+    {
+        "id": 862,
+        "zh_HK": "委內瑞拉",
+        "alpha2": "ve",
+        "alpha3": "ven",
+        "en-GB": "Venezuela (Bolivarian Republic of)",
+        "zh_CN": "委内瑞拉"
+    },
+    {
+        "id": 704,
+        "zh_HK": "越南",
+        "alpha2": "vn",
+        "alpha3": "vnm",
+        "en-GB": "Viet Nam",
+        "zh_CN": "越南"
+    },
+    {
+        "id": 92,
+        "zh_HK": "英屬維京群島",
+        "alpha2": "vg",
+        "alpha3": "vgb",
+        "en-GB": "Virgin Islands (British)",
+        "zh_CN": "英属维尔京群岛"
+    },
+    {
+        "id": 850,
+        "zh_HK": "美屬維京群島",
+        "alpha2": "vi",
+        "alpha3": "vir",
+        "en-GB": "Virgin Islands (U.S.)",
+        "zh_CN": "美属维尔京群岛"
+    },
+    {
+        "id": 876,
+        "zh_HK": "瓦利斯和富圖那",
+        "alpha2": "wf",
+        "alpha3": "wlf",
+        "en-GB": "Wallis and Futuna",
+        "zh_CN": "瓦利斯和富图纳"
+    },
+    {
+        "id": 732,
+        "zh_HK": "撒拉威阿拉伯民主共和國",
+        "alpha2": "eh",
+        "alpha3": "esh",
+        "en-GB": "Western Sahara",
+        "zh_CN": "阿拉伯撒哈拉民主共和国"
+    },
+    {
+        "id": 887,
+        "zh_HK": "葉門",
+        "alpha2": "ye",
+        "alpha3": "yem",
+        "en-GB": "Yemen",
+        "zh_CN": "也门"
+    },
+    {
+        "id": 894,
+        "zh_HK": "尚比亞",
+        "alpha2": "zm",
+        "alpha3": "zmb",
+        "en-GB": "Zambia",
+        "zh_CN": "赞比亚"
+    },
+    {
+        "id": 716,
+        "zh_HK": "辛巴威",
+        "alpha2": "zw",
+        "alpha3": "zwe",
+        "en-GB": "Zimbabwe",
+        "zh_CN": "津巴布韦"
+    },
+    {
+        "en-GB": "Unknown",
+        "zh_HK": "未知",
+        "zh_CN": "未知",
+        "alpha2": "-",
+        "alpha3": "-"
+    }
+]

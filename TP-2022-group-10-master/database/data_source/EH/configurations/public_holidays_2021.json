@@ -1,0 +1,70 @@
+[
+    {
+        "name": "The first day of January",
+        "date": "2021-01-01"
+    },
+    {
+        "name": "Lunar New Year Day",
+        "date": "2021-02-12"
+    },
+    {
+        "name": "The second day of Lunar New Year",
+        "date": "2021-02-13"
+    },
+    {
+        "name": "The fourth day of Lunar New Year",
+        "date": "2021-02-15"
+    },
+    {
+        "name": "Good Friday",
+        "date": "2021-04-02"
+    },
+    {
+        "name": "The day following Good Friday",
+        "date": "2021-04-03"
+    },
+    {
+        "name": "The day following Ching Ming Festival",
+        "date": "2021-04-05"
+    },
+    {
+        "name": "The day following Easter Monday",
+        "date": "2021-04-06"
+    },
+    {
+        "name": "Labour Day",
+        "date": "2021-05-01"
+    },
+    {
+        "name": "Birthday of the Buddha",
+        "date": "2021-05-19"
+    },
+    {
+        "name": "Tuen Ng Festival",
+        "date": "2021-06-14"
+    },
+    {
+        "name": "Hong Kong Special Administrative Region Establishment Day",
+        "date": "2021-07-01"
+    },
+    {
+        "name": "The day following the Chinese Mid-Autumn Festival",
+        "date": "2021-09-22"
+    },
+    {
+        "name": "National Day",
+        "date": "2021-10-01"
+    },
+    {
+        "name": "Chung Yeung Festival",
+        "date": "2021-10-14"
+    },
+    {
+        "name": "Christmas Day",
+        "date": "2021-12-25"
+    },
+    {
+        "name": "The first weekday after Christmas Day",
+        "date": "2021-12-27"
+    }
+]

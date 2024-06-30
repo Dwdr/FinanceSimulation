@@ -1,0 +1,47 @@
+[
+    {
+        "en-GB": "A1",
+        "zh_HK": "A1",
+        "zh_CN": "A1"
+    },
+    {
+        "en-GB": "A2",
+        "zh_HK": "A2",
+        "zh_CN": "A2"
+    },
+    {
+        "en-GB": "A3",
+        "zh_HK": "A3",
+        "zh_CN": "A3"
+    },
+    {
+        "en-GB": "B1",
+        "zh_HK": "B1",
+        "zh_CN": "B1"
+    },
+    {
+        "en-GB": "B2",
+        "zh_HK": "B2",
+        "zh_CN": "B2"
+    },
+    {
+        "en-GB": "B3",
+        "zh_HK": "B3",
+        "zh_CN": "B3"
+    },
+    {
+        "en-GB": "C1",
+        "zh_HK": "C1",
+        "zh_CN": "C1"
+    },
+    {
+        "en-GB": "C2",
+        "zh_HK": "C2",
+        "zh_CN": "C2"
+    },
+    {
+        "en-GB": "C3",
+        "zh_HK": "C3",
+        "zh_CN": "C3"
+    }
+]

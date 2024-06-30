@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is Employee Self-Service?",
+    "answer": "Employee Self-Service (ESS) allows you direct access to your data in the Human Resources system, CHRIS. Changes you make via ESS are updated in the CHRIS system with immediate effect."
+  },
+  {
+    "question": "Why can't I log in?",
+    "answer": "This version of employee self service was launched in February 2017. You use the same username and password as you use to log into raven, but the log in screen looks different. If you haven't changed your UIS (raven) password since approximately January 2016 then you might need to update it (but not necessarily change it) before you can log in. If your existing password is sufficiently secure, then you don't have to set a new password - re-entering your existing password will be enough."
+  },
+  {
+    "question": "Will self service work on my mobile or tablet?",
+    "answer": "Self service is not supported on mobile or tablet devices at this time. Some users have reporting being able to use self service by choosing the \"Request desktop site\" option in their mobile browser."
+  },
+  {
+    "question": "Why can't I update my email address?",
+    "answer": "The email address field on the Contact Details form is to hold your work email address. As such, only a set list of email address suffixes are allowable.\n\nA separate field is available for personal email addresses."
+  },
+  {
+    "question": "How do I access Self-Service?",
+    "answer": "You will need a UIS (Raven) password to access ESS. If you do not currently have a Raven password, you will need to apply for one. Once you have a Raven password, if you experience any difficulty accessing ESS, please contact the CHRIS Helpdesk (tel. 60999, email chrishelpdesk@admin.cam.ac.uk)."
+  },
+  {
+    "question": "What do I do if I can't access Self-Service or have forgotten my password?",
+    "answer": "You will need to request that your UIS (Raven) password is reset."
+  },
+  {
+    "question": "What if I don't have access to a computer?",
+    "answer": "ESS is available from any computer where you can log in to the University network. If you do not have access to a computer you can continue to update your data via the standard HR Division forms."
+  },
+  {
+    "question": "What data do I have access to?",
+    "answer": "You have access to personal details such as addresses and contacts and your absence history record held in CHRIS. Some data is read-only and some can be updated directly by you."
+  },
+  {
+    "question": "What if I need to change data that isn't available via Self-Service?",
+    "answer": "Data that is not available via ESS can still be amended by completing the relevant HR Form and sending this to the HR division."
+  },
+  {
+    "question": "What if I have questions about using ESS or wish to offer some feedback?",
+    "answer": "Please check all the questions here first. If you still have a question or just wish to offer some feedback or an idea, please contact the CHRIS Helpdesk (tel. 60999, email chrishelpdesk@admin.cam.ac.uk)."
+  },
+  {
+    "question": "Who else can access my data via ESS?",
+    "answer": "Your data is linked to your login only. This is dependant on you being the only person who knows your UIS (Raven) password information. If you have given your Raven login details to anyone else, please refer to the next question."
+  },
+  {
+    "question": "I would prefer not to have my HR details available via Employee Self-Service, is it possible to opt out?",
+    "answer": "It is not possible to opt out of ESS, please refer to usage of Raven passwords in the question above."
+  }
+]

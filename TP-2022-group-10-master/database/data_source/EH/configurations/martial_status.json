@@ -1,0 +1,32 @@
+[
+  {
+    "en-GB": "Single",
+    "zh_HK": "單身",
+    "zh_CN": "單身"
+  },
+  {
+    "en-GB": "Widowed",
+    "zh_HK": "喪偶",
+    "zh_CN": "喪偶"
+  },
+  {
+    "en-GB": "Separation",
+    "zh_HK": "分居",
+    "zh_CN": "分居"
+  },
+  {
+    "en-GB": "Married",
+    "zh_HK": "已婚",
+    "zh_CN": "已婚"
+  },
+  {
+    "en-GB": "Divorced",
+    "zh_HK": "離婚",
+    "zh_CN": "離婚"
+  },
+  {
+    "en-GB": "Unknown",
+    "zh_HK": "未知",
+    "zh_CN": "未知"
+  }
+]

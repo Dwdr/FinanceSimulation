@@ -1,0 +1,18 @@
+[
+    {
+        "code": "ph",
+        "name": "Public Holiday",
+        "is_nwd": true,
+        "is_adj": true,
+        "is_rse": false,
+        "percentage": 100
+    },
+    {
+        "code": "sh",
+        "name": "Statutory Holiday",
+        "is_nwd": true,
+        "is_adj": true,
+        "is_rse": true,
+        "percentage": 100
+    }
+]

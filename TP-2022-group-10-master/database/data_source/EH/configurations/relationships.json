@@ -1,0 +1,172 @@
+[
+    {
+        "en-GB": "Friend",
+        "zh_HK": "朋友",
+        "zh_CN": "朋友"
+    },
+    {
+        "en-GB": "Schoolmate",
+        "zh_HK": "同學",
+        "zh_CN": "同學"
+    },
+    {
+        "en-GB": "Neighbour",
+        "zh_HK": "鄰居",
+        "zh_CN": "鄰居"
+    },
+    {
+        "en-GB": "Co-Worker",
+        "zh_HK": "同事",
+        "zh_CN": "同事"
+    },
+    {
+        "en-GB": "Son",
+        "zh_HK": "兒子",
+        "zh_CN": "兒子"
+    },
+    {
+        "en-GB": "Daughter",
+        "zh_HK": "女兒",
+        "zh_CN": "女兒"
+    },
+    {
+        "en-GB": "Husband",
+        "zh_HK": "丈夫",
+        "zh_CN": "丈夫"
+    },
+    {
+        "en-GB": "Wife",
+        "zh_HK": "妻子",
+        "zh_CN": "妻子"
+    },
+    {
+        "en-GB": "Father",
+        "zh_HK": "父親",
+        "zh_CN": "父親"
+    },
+    {
+        "en-GB": "Mother",
+        "zh_HK": "母親",
+        "zh_CN": "母親"
+    },
+    {
+        "en-GB": "Cousin",
+        "zh_HK": "表兄弟",
+        "zh_CN": "表兄弟"
+    },
+    {
+        "en-GB": "Uncle",
+        "zh_HK": "叔叔",
+        "zh_CN": "叔叔"
+    },
+    {
+        "en-GB": "Aunt",
+        "zh_HK": "姨姨",
+        "zh_CN": "姨姨"
+    },
+    {
+        "en-GB": "Grandfather",
+        "zh_HK": "祖父",
+        "zh_CN": "祖父"
+    },
+    {
+        "en-GB": "Grandmother",
+        "zh_HK": "祖母",
+        "zh_CN": "祖母"
+    },
+    {
+        "en-GB": "Grandson",
+        "zh_HK": "孫子",
+        "zh_CN": "孫子"
+    },
+    {
+        "en-GB": "Granddaughter",
+        "zh_HK": "孫女",
+        "zh_CN": "孫女"
+    },
+    {
+        "en-GB": "Daughter-in-law",
+        "zh_HK": "媳婦",
+        "zh_CN": "媳婦"
+    },
+    {
+        "en-GB": "Son-in-law",
+        "zh_HK": "女婿",
+        "zh_CN": "女婿"
+    },
+    {
+        "en-GB": "Father-in-law",
+        "zh_HK": "岳父",
+        "zh_CN": "岳父"
+    },
+    {
+        "en-GB": "Mother-in-law",
+        "zh_HK": "岳母",
+        "zh_CN": "岳母"
+    },
+    {
+        "en-GB": "Brother-in-law",
+        "zh_HK": "姐妹夫",
+        "zh_CN": "姐妹夫"
+    },
+    {
+        "en-GB": "Sister-in-law",
+        "zh_HK": "嫂",
+        "zh_CN": "嫂"
+    },
+    {
+        "en-GB": "Brother (Elder)",
+        "zh_HK": "哥哥",
+        "zh_CN": "哥哥"
+    },
+    {
+        "en-GB": "Brother (Younger)",
+        "zh_HK": "弟弟",
+        "zh_CN": "弟弟"
+    },
+    {
+        "en-GB": "Sister (Elder)",
+        "zh_HK": "姐姐",
+        "zh_CN": "姐姐"
+    },
+    {
+        "en-GB": "Sister (Younger)",
+        "zh_HK": "妹妹",
+        "zh_CN": "妹妹"
+    },
+    {
+        "en-GB": "Niece",
+        "zh_HK": "侄女",
+        "zh_CN": "侄女"
+    },
+    {
+        "en-GB": "Nephew",
+        "zh_HK": "侄子",
+        "zh_CN": "侄子"
+    },
+    {
+        "en-GB": "Stepsister",
+        "zh_HK": "繼姐妹",
+        "zh_CN": "繼姐妹"
+    },
+    {
+        "en-GB": "Stepbrother",
+        "zh_HK": "繼兄弟",
+        "zh_CN": "繼兄弟"
+    },
+    {
+        "en-GB": "Stepfather",
+        "zh_HK": "繼父",
+        "zh_CN": "繼父"
+    },
+    {
+        "en-GB": "Stepmother",
+        "zh_HK": "後媽",
+        "zh_CN": "後媽"
+    },
+    {
+        "en-GB": "Unknown",
+        "zh_HK": "未知",
+        "zh_CN": "未知"
+    }
+]
