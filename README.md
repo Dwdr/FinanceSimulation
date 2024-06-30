@@ -61,7 +61,6 @@ Future improvements can be made such as improving the simulation program, includ
   <li>
     Clone the repository
 
-    git clone git@https://github.com/UofG-CS/project-TP-group10.git
   </li>
   <li>
     Install <a href="https://www.apachefriends.org/download.html">XAMPP</a>
